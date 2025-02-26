@@ -1,7 +1,6 @@
-#Logboek-HTML-CSS-JavaSript
+# Logboek-HTML-CSS-JavaSript
 
-##V0
-<br>
+## V0
 Projecten die mijn ontwikkeling bijhouden.
 Elke keer dat ik een project maak sla ik het op in een map.
 Mijn voortgang kun je hier teruglezen. Ik noteer obstakels en oplossingen.
